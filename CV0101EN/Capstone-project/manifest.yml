@@ -1,0 +1,5 @@
+---
+applications:
+ - name: Bed-Chair-Table_Recognizer_V2
+   random-random: true
+   memory: 128M
